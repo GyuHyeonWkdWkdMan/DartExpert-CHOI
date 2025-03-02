@@ -1,2 +1,4 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# 내용
+bin 디렉토리 안에 차곡차곡 쌓으면서 공부합니다
+
+lib 디렉토리에는 임포트 할 함수같은거를 넣습니다
