@@ -10,3 +10,9 @@ printNum(int a)
 printNumPlusTen(int a) {
   print("this number is ${a+10}.");
 }
+
+class ToShow {
+  prin() {
+    print("show keyword just used!");
+  }
+}

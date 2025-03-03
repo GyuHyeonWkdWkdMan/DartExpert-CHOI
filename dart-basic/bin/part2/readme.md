@@ -23,3 +23,12 @@ built-inIdentifier.dart
 
 keyword.dart 에 show 키워드를 사용하는 예가 있다.
 ##
+
+
+## 예약어
+
+식별자로 사용할 수 없음.
+
+async 함수의 바디에서는 아래 키워드를 식별자로 사용할 수 없음.
+
+![img.png](imgforREADME/async.png)
